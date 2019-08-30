@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DC143C</color>
+    <color name="colorPrimaryDark">#C06475</color>
+    <color name="colorAccent">#D598A3</color>
+
+    <color name="text_primary">@color/colorPrimaryDark</color>
+    <color name="text_secondary">@color/common_google_signin_btn_text_light_disabled</color>
+    <color name="text_hint">@color/common_google_signin_btn_text_light_focused</color>
+
+    <color name="black_87">#FFFFFF</color>
+    <color name="black_54">#FEFEFA</color>
+    <color name="black_26">#F8F8F8</color>
+</resources>
